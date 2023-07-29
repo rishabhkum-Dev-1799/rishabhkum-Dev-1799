@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
-<h3 align="center">I am Full Stack Software Developer current working in Capgemini .I have a keen interest in Web Development and System Design . Currently Open for work for better opportunities in Software development</h3>
+<h3 align="center">I am Full Stack Software Developer currently working in Capgemini .I have a keen interest in Web Development and System Design . Currently Open for better opportunities in Software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkum-dev-1799&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkum-dev-1799" /> </p>
 
